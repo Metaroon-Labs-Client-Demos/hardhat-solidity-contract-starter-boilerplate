@@ -1,3 +1,6 @@
+![Metaroon](https://github.com/nawodyaishan/hardhat-solidity-contract-starter-boilerplate/assets/50957846/1998fbdc-39cf-45d7-a0b0-ff124d75c378)
+
+
 # Hardhat Solidity Contract Starter Boilerplate
 
 ## Introduction
